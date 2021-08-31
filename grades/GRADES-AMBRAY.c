@@ -1,6 +1,6 @@
 /*
     This is the skeleton file that you need to use as base code for the GRADES
-problem.
+   problem.
 
         Encode your Name and Section below.
 
@@ -126,7 +126,6 @@ void Selection_Sort(struct studentTag STUDENTS[], int nStudents) {
   }
   // NOTE: you may define a separate function for swapping two structures.
 }
-
 /*
     TO DO TASK #4: [for 10 POINTS]
 
@@ -172,7 +171,6 @@ int Binary_Search(String param_lastname,
   // Do NOT forget the return statement!
   return -1;
 }
-
 /*
     TO DO TASK #5: [for 10 points]
 
